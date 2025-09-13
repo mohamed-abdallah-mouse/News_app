@@ -3,11 +3,11 @@ import 'package:flutter/material.dart';
 import 'news_home.dart';
 
 void main() {
-  runApp(const TunesApp());
+  runApp(const NewsApp());
 }
 
-class TunesApp extends StatelessWidget {
-  const TunesApp({super.key});
+class NewsApp extends StatelessWidget {
+  const NewsApp({super.key});
 
   @override
   Widget build(BuildContext context) {

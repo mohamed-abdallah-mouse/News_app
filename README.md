@@ -24,13 +24,13 @@ It fetches live data using a **News API** (integrated with **Dio**) and presents
 
 ## 🖼️ Screenshots
 
-| Home (General)                   | Categories Bar                   | Business News                    | Entertainment News               |  
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|  
-| ![General](screen_shoots/general.jpg) | ![Categories](screen_shoots/categories.jpg) | ![Business](screen_shoots/business.jpg) | ![Entertainment](screen_shoots/entertainment.jpg) |  
+| Home (General)                                  | Business News                                     | Entertainment News                                          |  
+|-------------------------------------------------|---------------------------------------------------|-------------------------------------------------------------|
+| ![General](assets/screenshots/general_news.jpg) | ![Business](assets/screenshots/business_news.jpg) | ![Entertainment](assets/screenshots/entertainment_news.jpg) |  
 
-| Health News                      | Science News                     | Sports News                      | Technology News                  |  
-|----------------------------------|----------------------------------|----------------------------------|----------------------------------|  
-| ![Health](screen_shoots/health.jpg) | ![Science](screen_shoots/science.jpg) | ![Sports](screen_shoots/sports.jpg) | ![Technology](screen_shoots/technology.jpg) |  
+| Health News                                   | Science News                                    | Sports News                                   | Technology News                                       |  
+|-----------------------------------------------|-------------------------------------------------|-----------------------------------------------|-------------------------------------------------------|  
+| ![Health](assets/screenshots/health_news.jpg) | ![Science](assets/screenshots/science_news.jpg) | ![Sports](assets/screenshots/sports_news.jpg) | ![Technology](assets/screenshots/technology_news.jpg) |  
 
 ## 📂 Project Structure
 - `lib/cubits/` → Business logic with Cubit
@@ -48,8 +48,8 @@ It fetches live data using a **News API** (integrated with **Dio**) and presents
 - 📌 **Infinite scroll & pagination** → load more articles seamlessly
 
 ## ▶️ Demo
-[Download APK](#) (link to be added)
+[Download APK](https://drive.google.com/file/d/1etilXQ7GGznfSC2_xq44i8wvh1Duo5ql/view?usp=drivesdk)
 
 ## 👨‍💻 Author
 Mohamed Abdalla Moussa Ibrahim  
-[GitHub](https://github.com/mohamed-abdallah-mouse) | [LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-mouse-69419a1b8)  
+[GitHub](https://github.com/mohamed-abdallah-mouse/News_app) | [LinkedIn](https://www.linkedin.com/in/mohamed-abdullah-mouse-69419a1b8)  
