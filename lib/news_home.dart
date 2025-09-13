@@ -20,7 +20,7 @@ class NewsHome extends StatelessWidget {
           physics: BouncingScrollPhysics(),
           slivers: [
             SliverToBoxAdapter(child: CatogriesList()),
-            NewsListBuilder(category: 'technology'),
+            NewsListBuilder(category: 'general'),
           ],
         ),
       ),

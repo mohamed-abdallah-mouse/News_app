@@ -10,9 +10,9 @@ class NewsServicesModel {
   });
   factory NewsServicesModel.fromJson(json) {
     return NewsServicesModel(
-      title: json['title'],
-      subtitle: json['description'],
-      image: json['urlToImage'],
+      title: json['title'] ?? 'No title founded',
+      subtitle: json['description'] ?? 'No description founded',
+      image: json['urlToImage'] ?? 'assets/image.png',
     );
   }
 }

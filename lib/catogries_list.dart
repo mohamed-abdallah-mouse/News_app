@@ -5,7 +5,7 @@ import 'nes_home_item.dart';
 
 class CatogriesList extends StatelessWidget {
   const CatogriesList({super.key});
-  static final List<CatogryModel> categories = const [
+  static final List<CatogryModel> categories = [
     CatogryModel(
       name: 'general',
       image: 'assets/technology.jpeg',
